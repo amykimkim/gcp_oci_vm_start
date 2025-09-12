@@ -19,4 +19,9 @@ AHI 504 — Cloud Foundations for Health Informatics - Assignment 1
 11. At the bottom, click create. After it is created, click on the VM
 12. scroll through the details of VM that you created
 13. Back at top, create SSH dropdown and open in browser window. Then allow. Will show linux terminal environment
-14. 
+14. in terminal, type this command:
+    sudo apt-get update
+
+   sudo means running command with admin privileges. apt-get means software manager. update means updating all software that comes with this operating machine
+
+15. 
