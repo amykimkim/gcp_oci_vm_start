@@ -24,4 +24,5 @@ AHI 504 — Cloud Foundations for Health Informatics - Assignment 1
 
    sudo means running command with admin privileges. apt-get means software manager. update means updating all software that comes with this operating machine
 
-15. 
+15. Back on main screen "VM Instances" click on the three dots on far right side of your new VM
+16. Click Delete
