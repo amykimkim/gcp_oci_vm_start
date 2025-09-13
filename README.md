@@ -43,7 +43,7 @@ AHI 504 — Cloud Foundations for Health Informatics - Assignment 1
 
 ![OCI create](images/OCI_create.png)
 
-![OCI running](images/oci_running.png)
+![OCI running](images/OCI_running.png)
 
 5. Stop the VM and verify
 6. Terminate the VM with "delete the boot volume" checked
